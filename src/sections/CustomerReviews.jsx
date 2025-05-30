@@ -26,6 +26,6 @@ const CustomerReviews = () => {
       </div>
     </section>
   );
-};git
+};
 
 export default CustomerReviews;
